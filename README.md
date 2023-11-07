@@ -1,5 +1,2 @@
- # Welcome To The Page
- 
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Welcome animation](https://media.giphy.com/media/StF8grqNK8fOPstPLo/giphy.gif)
 
-##  What I do 💁
